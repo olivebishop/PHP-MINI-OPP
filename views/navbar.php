@@ -1,8 +1,8 @@
 <style>
-    .top-nav ul li {
-        display: inline;
-    }
-</style>
+        .top-nav ul li{
+            display: inline;
+        }
+    </style>
 <nav>
     <div class="top-nav">
         <ul>
@@ -12,7 +12,7 @@
             <li><a href="../views/blog.php">Blog</a></li>
             <li><a href="../views/contacts.php">Contacts</a></li>
             <li><a href="../views/login.php">Login</a></li>
-            <li><a href="../views/signup.php">Register</a></li>
+            <li><a href="../views/register.php">Register</a></li>
         </ul>
     </div>
 </nav>
