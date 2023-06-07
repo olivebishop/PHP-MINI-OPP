@@ -3,7 +3,7 @@
 
 // Database connection parameters
 $host = 'localhost';
-$dbname = 'bank_db';
+$dbname = 'bankdb_oop';
 $username = 'root';
 $password = '';
 
